@@ -1,5 +1,3 @@
 /.ipynb_checkpoints/*
-fhr_stats.csv
-launch_hpo*.bat
 private*/
-launch_hpo.py
+fhr_stats.csv
